@@ -30,6 +30,11 @@ set noshowmode
 set noruler
 set laststatus=0
 set noshowcmd
+set colorcolumn=80
+set nowrap
+set tabstop=8
+set softtabstop=8
+
 colorscheme vim
 
 " Some basics:
