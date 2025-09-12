@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env deno run --allow-read --allow-write --allow-run
 
 /**
@@ -925,3 +926,5 @@ REQUIREMENTS:
 if (import.meta.main) {
   await main();
 }
+=======
+>>>>>>> refs/remotes/origin/master
