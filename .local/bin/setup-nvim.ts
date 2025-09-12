@@ -9,7 +9,7 @@
  * Usage: deno run --allow-read --allow-write --allow-run setup-nvim.ts
  */
 
-import { ensureDir, exists } from "https://deno.land/std@0.208.0/fs/mod.ts";
+import { ensureDir, exists } from "https://deno.land/std/fs/mod.ts";
 import { join } from "https://deno.land/std@0.208.0/path/mod.ts";
 
 interface ConfigFile {
