@@ -1,0 +1,2 @@
+PS1="%B%{$fg[green]%}[🇲🇽 %{$fg[white]%}%M %{$fg[red]%}🕒 %D{%H:%M}%{$fg[green]%}]%{$reset_color%}$%b
+%B%{$fg[blue]%}📂 %~%{$reset_color%} %b➤ "
